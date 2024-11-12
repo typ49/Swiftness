@@ -22,6 +22,7 @@
 >If GamedevFramework not installed, following the operations as root :
 > ```shell
 > git clone git@github.com:typ49/Swiftness.git
+> cd Swiftness
 > chmod +x install.sh && ./install.sh
 > chmod +x Swiftness.sh && ./Swiftness.sh
 > ```
