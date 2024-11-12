@@ -1,18 +1,10 @@
 # Swiftness
 
->
->> ***L3 Project***
->
 > *Developper :*
 >
 >- **Julien GAUTHIER**
 >- **Théo HUMBERT**
 >- **Naël EMBARKI**
->
-> *Referent :*
->
->- **Julien Bernard**
->
 
 ## a plateform game
 
