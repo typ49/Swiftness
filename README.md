@@ -15,7 +15,7 @@
 >
 >
 
-## How to launch the game
+## How to install the game
 
 >
 > On a terminal, very simply :
@@ -24,8 +24,16 @@
 > git clone git@github.com:typ49/Swiftness.git
 > cd Swiftness
 > chmod +x install.sh && ./install.sh
-> chmod +x Swiftness.sh && ./Swiftness.sh
+> chmod +x Swiftness.sh
 > ```
+
+## How to launch the game
+
+> On the Swiftness repository
+> ```shell
+> ./Swiftness.sh
+> ```
+
 
 ## Drive for more information : subject, report and oral presentation
 
