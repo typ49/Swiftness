@@ -18,15 +18,13 @@
 ## How to launch the game
 
 >
-> On a terminal, very simply : 
->
-> If GamedevFramework not installed, following the operations as root :
->> **#** **chmod +x install.sh && ./install.sh**
->> 
-> Then, you can run the game with this script (not as root) down below :
->> **\>** **chmod +x Swiftness.sh && ./Swiftness.sh**
->>
->
+> On a terminal, very simply :
+>If GamedevFramework not installed, following the operations as root :
+> ```shell
+> git clone git@github.com:typ49/Swiftness.git
+> chmod +x install.sh && ./install.sh
+> chmod +x Swiftness.sh && ./Swiftness.sh
+> ```
 
 ## Drive for more information : subject, report and oral presentation
 
